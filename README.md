@@ -27,6 +27,12 @@ Consultas de exemplo para extrair informacoes do banco, como extrato de conta, g
 **Atualizacao_de_Dados.sql**
 Comandos de atualizacao de dados, como pagamento de fatura, atualizacao de saldo e ajuste de limites.
 
+**Laboratorio de Banco de Dados - FinanSys.mwb**
+Trata-se do Modelo Lógico do Banco de Dados, obtido através da ferramenta de engenharia reversa do MySQL Workbench
+
+**LABORATÓRIO DE BANCO DE DADOS.drawio** e **LABORATÓRIO DE BANCO DE DADOS.drawio.html**.
+São duas versões do Modelo Conceitual desenvolvido no **draw.io Diagrams**.
+
 ## Como executar
 Executar o arquivo Laboratorio de Banco de Dados - FinanSys.sql para criar o banco e as tabelas.
 Executar o arquivo Insercao_de_Dados.sql para popular o banco com dados de exemplo.
